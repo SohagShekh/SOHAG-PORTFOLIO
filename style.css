@@ -1,0 +1,110 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+    border: 1px solid black;
+    width: 65%;
+    height: auto;
+    margin: auto;
+    background: #D5DBDB ;
+    border: none;
+    padding: 20px;   
+}
+.side{
+    border: 2px dotted black;
+    border-radius: 10px;
+    width: 30%;
+    height: 950px;
+    border: none;
+    background-color: #CACFD2 ;
+}
+.name h2{
+    padding: 10px;
+    color: rgb(7, 7, 7);
+    font-size: 30px;
+    margin-left: 25px;
+}
+span{
+    color: orangered;
+}
+.pic{
+    width: 270px;
+    height: 270px;
+    background-image: url(S.jpg);
+    background-size: cover;
+    margin: 10px;
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left:-1px;
+}
+.font-1{
+    margin-left: 25px;
+}
+h3{
+border-bottom: 2px Solid black;
+width: 100px;
+padding: 5px;
+}
+.line-1{
+    margin-top: 10px;
+}
+.about{
+   margin-top:-320%;
+   margin-left: 300px;
+}
+.about p{
+    width: 500px;
+    height: 100px;
+    text-align: justify;
+}
+.about h3{
+    width: 500px;
+}
+.about li{
+    width: 500px;
+    height: 30px;
+}
+.about-1{
+    margin-left: 300px;
+    margin-top: -90px;
+}
+.about h4{
+    width: 500px;
+}
+.pra p{
+    margin-top: -17px;
+    margin-left: 115px;
+}
+.pra-1{
+    margin-top: -80px;
+}
+.pra-2 p{
+    margin-top: -17px;
+    margin-left: 130px;
+}
+.line{
+    widows: 500px;
+    margin-top: -70px;
+    text-align: justify;
+}
+.line-2{
+    widows: 5000px;
+    margin-top: -50px;
+}
+p{
+    font-size: 15px;
+
+}
+.wrating{
+    margin-top: 10px;
+
+}
+.full-desing{
+    background: rgb(255, 255, 255);
+    box-shadow: 4px 8px 10px gray -3px 5px 10px Black;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
